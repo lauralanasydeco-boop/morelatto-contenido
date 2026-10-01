@@ -1,0 +1,40 @@
+{
+  "publicaciones": [
+    {
+      "id": "2026-10-01-seminario-cesteria",
+      "fecha_hora": "2026-10-01T00:00:00-03:00",
+      "tipo": "carrusel",
+      "carpeta": "publicaciones/2026-10-01-seminario-cesteria",
+      "imagenes": [
+        "01_macetero.jpg",
+        "02_lampara.jpg",
+        "03_espejos.jpg",
+        "04_fanales.jpg",
+        "05_banqueta.jpg",
+        "06_mesas.jpg",
+        "07_bandejas.jpg",
+        "08_matera.jpg",
+        "09_canastos.jpg",
+        "10_te_esperamos.jpg"
+      ],
+      "texto": "publicaciones/2026-10-01-seminario-cesteria/texto.txt",
+      "estado": "aprobada",
+      "trigger_id": null,
+      "post_id": null,
+      "publicada_el": null
+    }
+  ],
+  "fuentes_usadas": [
+    {"ruta": "seminario\\01_macetero.jpg", "mtimeMs": 1790874641700},
+    {"ruta": "seminario\\02_lampara.jpg", "mtimeMs": 1790874641934},
+    {"ruta": "seminario\\03_espejos.jpg", "mtimeMs": 1790874642043},
+    {"ruta": "seminario\\04_fanales.jpg", "mtimeMs": 1790874641574},
+    {"ruta": "seminario\\05_banqueta.jpg", "mtimeMs": 1790874641890},
+    {"ruta": "seminario\\06_mesas.jpg", "mtimeMs": 1790874641995},
+    {"ruta": "seminario\\07_bandejas.jpg", "mtimeMs": 1790874642109},
+    {"ruta": "seminario\\08_matera.jpg", "mtimeMs": 1790874641758},
+    {"ruta": "seminario\\09_canastos.jpg", "mtimeMs": 1790874642154},
+    {"ruta": "seminario\\10_te_esperamos.jpg", "mtimeMs": 1790874641825}
+  ],
+  "carpetas_entrada_usadas": ["seminario"]
+}
