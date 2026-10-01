@@ -2,7 +2,7 @@
   "publicaciones": [
     {
       "id": "2026-10-01-seminario-cesteria",
-      "fecha_hora": "2026-10-01T00:00:00-03:00",
+      "fecha_hora": "2026-10-01T15:10:42-03:00",
       "tipo": "carrusel",
       "carpeta": "publicaciones/2026-10-01-seminario-cesteria",
       "imagenes": [
@@ -18,10 +18,11 @@
         "10_te_esperamos.jpg"
       ],
       "texto": "publicaciones/2026-10-01-seminario-cesteria/texto.txt",
-      "estado": "aprobada",
+      "estado": "publicada",
       "trigger_id": null,
-      "post_id": null,
-      "publicada_el": null
+      "post_id": "18372073993208322",
+      "link": "https://www.instagram.com/p/Dd9hYxJEXgs/",
+      "publicada_el": "2026-10-01T15:10:42-03:00"
     }
   ],
   "fuentes_usadas": [
