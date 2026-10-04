@@ -55,11 +55,26 @@
       "carpeta": "publicaciones/2026-10-04-reel-taller-3-octubre",
       "imagenes": ["reel_taller_3_octubre_v2.mp4"],
       "texto": "publicaciones/2026-10-04-reel-taller-3-octubre/texto.txt",
-      "estado": "publicada",
+      "estado": "eliminada",
+      "nota": "Laura lo borró desde la app para republicarlo con música",
       "trigger_id": null,
       "post_id": "18103014164183867",
       "link": "https://www.instagram.com/reel/DeFqA4pCXRE/",
       "publicada_el": "2026-10-04T19:00:42-03:00"
+    },
+    {
+      "id": "2026-10-04-reel-taller-3-octubre-musica",
+      "fecha_hora": "2026-10-04T19:19:50-03:00",
+      "tipo": "reel",
+      "carpeta": "publicaciones/2026-10-04-reel-taller-3-octubre-musica",
+      "imagenes": ["reel_taller_3_octubre_musica.mp4"],
+      "texto": "publicaciones/2026-10-04-reel-taller-3-octubre-musica/texto.txt",
+      "musica": "Just Keep Walking (Mixkit, licencia gratuita)",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18019016465730305",
+      "link": "https://www.instagram.com/reel/DeFsPXHE-Mu/",
+      "publicada_el": "2026-10-04T19:19:50-03:00"
     }
   ],
   "fuentes_usadas": [
