@@ -47,9 +47,23 @@
       "post_id": "18120714098291696",
       "link": null,
       "publicada_el": "2026-10-01T16:00:00-03:00"
+    },
+    {
+      "id": "2026-10-04-reel-taller-3-octubre",
+      "fecha_hora": "2026-10-04T19:00:42-03:00",
+      "tipo": "reel",
+      "carpeta": "publicaciones/2026-10-04-reel-taller-3-octubre",
+      "imagenes": ["reel_taller_3_octubre_v2.mp4"],
+      "texto": "publicaciones/2026-10-04-reel-taller-3-octubre/texto.txt",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18103014164183867",
+      "link": "https://www.instagram.com/reel/DeFqA4pCXRE/",
+      "publicada_el": "2026-10-04T19:00:42-03:00"
     }
   ],
   "fuentes_usadas": [
+    {"ruta": "C:\\Users\\maria\\Downloads\\reel_taller_3_octubre_v2.mp4", "mtimeMs": 0},
     {"ruta": "seminario\\01_macetero.jpg", "mtimeMs": 1790874641700},
     {"ruta": "seminario\\02_lampara.jpg", "mtimeMs": 1790874641934},
     {"ruta": "seminario\\03_espejos.jpg", "mtimeMs": 1790874642043},
