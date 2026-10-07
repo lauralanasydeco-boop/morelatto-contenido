@@ -75,6 +75,20 @@
       "post_id": "18019016465730305",
       "link": "https://www.instagram.com/reel/DeFsPXHE-Mu/",
       "publicada_el": "2026-10-04T19:19:50-03:00"
+    },
+    {
+      "id": "2026-10-07-reel-sweety-de-mia",
+      "fecha_hora": "2026-10-07T20:34:27-03:00",
+      "tipo": "reel",
+      "carpeta": "publicaciones/2026-10-07-reel-sweety-de-mia",
+      "imagenes": ["reel_sweety_de_mia.mp4"],
+      "texto": "publicaciones/2026-10-07-reel-sweety-de-mia/texto.txt",
+      "musica": "Just Keep Walking (Mixkit), voz de Laura + cartel de envíos al final",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18463471774190402",
+      "link": "https://www.instagram.com/reel/DeNjLAxFON-/",
+      "publicada_el": "2026-10-07T20:34:27-03:00"
     }
   ],
   "fuentes_usadas": [
@@ -90,5 +104,5 @@
     {"ruta": "seminario\\09_canastos.jpg", "mtimeMs": 1790874642154},
     {"ruta": "seminario\\10_te_esperamos.jpg", "mtimeMs": 1790874641825}
   ],
-  "carpetas_entrada_usadas": ["seminario", "09 Publicaciones\\Para aprobar\\2026-10-01 seminario"]
+  "carpetas_entrada_usadas": ["09 Publicaciones\\Listas\\Reel Sweety de Mia", "seminario","09 Publicaciones\\Para aprobar\\2026-10-01 seminario"]
 }
