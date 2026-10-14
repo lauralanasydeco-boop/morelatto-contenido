@@ -115,6 +115,45 @@
       "post_id": "17914908942524012",
       "link": null,
       "publicada_el": "2026-10-14T15:56:19-03:00"
+    },
+    {
+      "id": "2026-10-14-historia-2-seminario-17-octubre",
+      "fecha_hora": "2026-10-14T15:59:15-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historias_con_musica",
+      "imagenes": ["02_historia.mp4"],
+      "musica": "Just Keep Walking (Mixkit), desde 0:37",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18033148472896232",
+      "link": null,
+      "publicada_el": "2026-10-14T15:59:15-03:00"
+    },
+    {
+      "id": "2026-10-14-historia-3-seminario-17-octubre",
+      "fecha_hora": "2026-10-14T15:59:15-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historias_con_musica",
+      "imagenes": ["03_historia.mp4"],
+      "musica": "Just Keep Walking (Mixkit), desde 0:44",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "17979605391124561",
+      "link": null,
+      "publicada_el": "2026-10-14T15:59:15-03:00"
+    },
+    {
+      "id": "2026-10-14-historia-4-seminario-17-octubre",
+      "fecha_hora": "2026-10-14T15:59:15-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historias_con_musica",
+      "imagenes": ["04_historia.mp4"],
+      "musica": "Just Keep Walking (Mixkit), desde 0:51",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18116669900088398",
+      "link": null,
+      "publicada_el": "2026-10-14T15:59:15-03:00"
     }
   ],
   "fuentes_usadas": [
