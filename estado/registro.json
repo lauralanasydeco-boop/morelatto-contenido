@@ -102,6 +102,19 @@
       "post_id": "18107585576241966",
       "link": null,
       "publicada_el": "2026-10-14T12:54:54-03:00"
+    },
+    {
+      "id": "2026-10-14-historia-1-seminario-17-octubre",
+      "fecha_hora": "2026-10-14T15:56:19-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historias_con_musica",
+      "imagenes": ["01_historia.mp4"],
+      "musica": "Just Keep Walking (Mixkit), desde 0:30",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "17914908942524012",
+      "link": null,
+      "publicada_el": "2026-10-14T15:56:19-03:00"
     }
   ],
   "fuentes_usadas": [
