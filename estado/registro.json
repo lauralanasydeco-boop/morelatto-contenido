@@ -168,6 +168,19 @@
       "post_id": "17942946234094149",
       "link": null,
       "publicada_el": "2026-10-15T13:49:01-03:00"
+    },
+    {
+      "id": "2026-10-15-historia-reel-seminario",
+      "fecha_hora": "2026-10-15T20:30:19-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/reel",
+      "imagenes": ["reel_historia.mp4"],
+      "nota": "Reel a pantalla completa como historia; la version compartida desde la app se congelaba",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18088954289692665",
+      "link": null,
+      "publicada_el": "2026-10-15T20:30:19-03:00"
     }
   ],
   "fuentes_usadas": [
