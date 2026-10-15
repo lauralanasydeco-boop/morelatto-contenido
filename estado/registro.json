@@ -154,6 +154,20 @@
       "post_id": "18116669900088398",
       "link": null,
       "publicada_el": "2026-10-14T15:59:15-03:00"
+    },
+    {
+      "id": "2026-10-15-reel-seminario-17-octubre",
+      "fecha_hora": "2026-10-15T13:49:01-03:00",
+      "tipo": "reel",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/reel",
+      "imagenes": ["reel_seminario_17_octubre.mp4"],
+      "texto": "caption: versión corta del carrusel (materiales incluidos, cafecito y algo rico)",
+      "musica": "Just Keep Walking (Mixkit), de fondo bajo la voz de Laura",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "17942946234094149",
+      "link": null,
+      "publicada_el": "2026-10-15T13:49:01-03:00"
     }
   ],
   "fuentes_usadas": [
