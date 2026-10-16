@@ -181,6 +181,19 @@
       "post_id": "18088954289692665",
       "link": null,
       "publicada_el": "2026-10-15T20:30:19-03:00"
+    },
+    {
+      "id": "2026-10-16-historia-ultimos-lugares",
+      "fecha_hora": "2026-10-16T09:14:33-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historia_ultimos_lugares",
+      "imagenes": ["historia_ultimos_lugares.mp4"],
+      "musica": "Just Keep Walking (Mixkit) bajo la voz de Laura (toma 'esa personita muy especial')",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18033740951887063",
+      "link": null,
+      "publicada_el": "2026-10-16T09:14:33-03:00"
     }
   ],
   "fuentes_usadas": [
