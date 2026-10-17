@@ -194,6 +194,19 @@
       "post_id": "18033740951887063",
       "link": null,
       "publicada_el": "2026-10-16T09:14:33-03:00"
+    },
+    {
+      "id": "2026-10-16-historia-gift-card",
+      "fecha_hora": "2026-10-16T21:29:50-03:00",
+      "tipo": "historia",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historia_gift_card",
+      "imagenes": ["historia_gift_card_v2.mp4"],
+      "musica": "Just Keep Walking (Mixkit)",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18490944310108563",
+      "link": null,
+      "publicada_el": "2026-10-16T21:29:50-03:00"
     }
   ],
   "fuentes_usadas": [
