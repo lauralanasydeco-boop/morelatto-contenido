@@ -216,11 +216,26 @@
       "imagenes": ["historia_cierre_seminario_v2.mp4"],
       "texto": "publicaciones/2026-10-17-seminario-flores-encordado/historia_cierre/texto_reel_cierre.txt",
       "musica": "Happy Home (Mixkit)",
-      "estado": "publicada",
+      "estado": "eliminada",
+      "nota": "Lauri lo borró para republicarlo con escenas de Mariana enseñando",
       "trigger_id": null,
       "post_id": "17886587310623696",
       "link": null,
       "publicada_el": "2026-10-20T21:08:00-03:00"
+    },
+    {
+      "id": "2026-10-20-reel-cierre-seminario-v3",
+      "fecha_hora": "2026-10-20T21:23:00-03:00",
+      "tipo": "reel",
+      "carpeta": "publicaciones/2026-10-17-seminario-flores-encordado/historia_cierre",
+      "imagenes": ["historia_cierre_seminario_v3.mp4"],
+      "texto": "publicaciones/2026-10-17-seminario-flores-encordado/historia_cierre/texto_reel_cierre.txt",
+      "musica": "Happy Home (Mixkit)",
+      "estado": "publicada",
+      "trigger_id": null,
+      "post_id": "18118622317971588",
+      "link": null,
+      "publicada_el": "2026-10-20T21:23:00-03:00"
     }
   ],
   "fuentes_usadas": [
